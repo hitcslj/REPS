@@ -1,5 +1,5 @@
 # REPS: Reconstruction-based Point Cloud Sampling
-### [Paper]()
+### [Paper](https://arxiv.org/abs/2403.05047)
 
 
 <div align=center>
