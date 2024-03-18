@@ -1,6 +1,6 @@
 # REPS: Reconstruction-based Point Cloud Sampling
 
-### [Paper](https://arxiv.org/abs/2403.05047)| [**Project Page**]([hitcslj/REPS: REPS: Reconstruction-based Point Cloud Sampling (github.com)](https://github.com/hitcslj/REPS))
+### [Paper](https://arxiv.org/abs/2403.05047)| [**Project Page**](https://github.com/hitcslj/REPS)
 
 <div align=center>
 <img src="assets/reps_pipeline.png" width="100%"/>
